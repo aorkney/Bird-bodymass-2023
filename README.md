@@ -13,3 +13,9 @@ a) Run script 'Residual_Csize_10_08_2022.R' to generate a dataset of avian bone 
 b) Run script 'Integration_v_body_mass_11_08_2022.R' to run the analysis.
 
 c) Run script 'Plot_integration_v_body_mass_14_11_2022.R' to plot the analysis output (Figure 1).
+
+
+Figure 2:
+Figure 2 is a collection of raster images which demonstrate whether evolutionary integration within and between the wing and trunk skeletal modules changes significantly as a function of body mass. This is achieved by producing many taxonomic subsets of birds with different mass ranges and asking whether evolutionary covariance between selected combinations of bones is significantly stronger or weaker in lighter or more massive taxonomic subsets. 
+
+a) Run script 'pairwise_sig_compare_28_12_2022.R' to undertake analysis and plot Figure 2.
