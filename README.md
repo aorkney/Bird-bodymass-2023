@@ -30,6 +30,8 @@ a) Run script 'Wing_plot_04_12_2022.R' to undertake analysis and plot Figure 3.
 Figure 4:
 Figure 4 employs the same approach as Figure 3, but in this instance evolutionary covariances between bones within the trunk (sternum and scapula), between the trunk and wing (sternum and carpometacarpus) and between 3-D shape of the coracoid (a trunk bone the shape of which covaries with flight style) and flight style ecology. 
 
+The coding implementation of Figure 4 differs slightly to Figure 3; it is more complex but can be more easily customised to study custom taxonomic subsets. The choice to present this alternative implementation was made in order to benefit the user who wishes to customise these scripts.
+
 a) Run script 'Trunk_plot_04_11_2022.R' to undertake analysis and plot Figure 4.
 
 
@@ -37,3 +39,21 @@ Figure 5:
 Finally, Figure 5 is a combination of scatter and violin plots, which reveal how patterns in the distirbution of carpometacarpus size (represented by allometrically adjusted centroid size) are structured by categorical variables within flight style ecology. 
 
 a) Run script 'allometry_plot_29_12_2022.R' to plot Figure 5.
+
+
+Data:
+
+Datasets can be sourced from:
+
+3-D bird skeletal landmark constellations: Bjarnason and Benson (2021) https://doi.org/10.18563/journal.m3.125
+
+Avian Phylogeny: Prum et al., (2015) https://doi.org/10.1038/nature15697
+
+flight_masses_22_10_2022_plus_A.csv: A dataset of bird masses and flight styles compiled from the wider literature
+
+name_matches_12_10_2022.csv: A dataset that matches bird metadata names to phylogeny tip labels
+
+Eco_meta_data.csv: A dataset of original bird specimen, CT-scan metadata and ecological metadata sourced from the wider literature; compilation was undertaken by Andrew Orkney, Roger Benson, Alex Bjarnason and Brigit Tronrud.
+
+Telluraves.csv: A dataset of bird names belonging to clade Telluraves.
+
