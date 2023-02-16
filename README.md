@@ -25,3 +25,9 @@ Figure 3 employs an alternative mathematical approach to test whether evolutiona
 The results are represented as a series of decorated scatter plots. 
 
 a) Run script 'Wing_plot_04_12_2022.R' to undertake analysis and plot Figure 3.
+
+
+Figure 4:
+Figure 4 employs the same approach as Figure 3, but in this instance evolutionary covariances between bones within the trunk (sternum and scapula), between the trunk and wing (sternum and carpometacarpus) and between 3-D shape of the coracoid (a trunk bone the shape of which covaries with flight style) and flight style ecology. 
+
+a) Run script 'Trunk_plot_04_11_2022.R' to undertake analysis and plot Figure 4.
