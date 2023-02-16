@@ -19,3 +19,9 @@ Figure 2:
 Figure 2 is a collection of raster images which demonstrate whether evolutionary integration within and between the wing and trunk skeletal modules changes significantly as a function of body mass. This is achieved by producing many taxonomic subsets of birds with different mass ranges and asking whether evolutionary covariance between selected combinations of bones is significantly stronger or weaker in lighter or more massive taxonomic subsets. 
 
 a) Run script 'pairwise_sig_compare_28_12_2022.R' to undertake analysis and plot Figure 2.
+
+Figure 3: 
+Figure 3 employs an alternative mathematical approach to test whether evolutionary integration changes as a function of body mass. In this analysis the evolutionary covariances between bones within the wing (carpometacarpus and humerus), between the size of the carpometacarpus and flight style ecology, and between the 3-D shape of the carpometacarpus and flight style ecology, are computed. The major axes of covariance are extracted and the Euclidean distance of individual species to these axes are found. Breusch-pagan tests for heteroskedasticity are then conducted to determine whether the scatter from the major axis of covariance depends on body mass (stronger/weaker integration with higher body mass will result in a narrower/wider scatter).
+The results are represented as a series of decorated scatter plots. 
+
+a) Run script 'Wing_plot_04_12_2022.R' to undertake analysis and plot Figure 3.
