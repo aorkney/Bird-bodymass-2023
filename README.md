@@ -1,7 +1,7 @@
 # Bird-bodymass-2023
 This repository contains a collection of scripts that investigate how body mass variety in birds structures the modular evolutionary organisation of the avian skeleton, and the strength of its ecological adaptation to flight style variety.
 
-The scripts herein, which were all run in R verson 4.2.1, reproduce the analysis in the submitted manuscript Orkney & Hedrick 2023; 'Penetrating the Palimpsest; bodymass drives divergent patterns of modular evolution in the avian wing and trunk,'
+The scripts herein, which were all run in R verson 4.2.1, reproduce the analysis in the submitted manuscript Orkney & Hedrick 2023; 'Penetrating the palimpsest: Body mass explains divergent schemes of modular integration in the avian wing and trunk,'
 
 The script 'Compile_datasets_22_10_2022_clean.R' will draw upon supplied or cited source files to generate and save datasets for analysis in subsequent scripts.
 
