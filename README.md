@@ -31,3 +31,9 @@ Figure 4:
 Figure 4 employs the same approach as Figure 3, but in this instance evolutionary covariances between bones within the trunk (sternum and scapula), between the trunk and wing (sternum and carpometacarpus) and between 3-D shape of the coracoid (a trunk bone the shape of which covaries with flight style) and flight style ecology. 
 
 a) Run script 'Trunk_plot_04_11_2022.R' to undertake analysis and plot Figure 4.
+
+
+Figure 5:
+Finally, Figure 5 is a combination of scatter and violin plots, which reveal how patterns in the distirbution of carpometacarpus size (represented by allometrically adjusted centroid size) are structured by categorical variables within flight style ecology. 
+
+a) Run script 'allometry_plot_29_12_2022.R' to plot Figure 5.
